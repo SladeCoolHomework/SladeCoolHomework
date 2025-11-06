@@ -8,8 +8,8 @@ a:link, a:visited, a:hover, a:active {
 /* Body and Headings */
 body {
   font-family: Arial, sans-serif;
-  background-color: rgb(209, 1, 1); /* Red color for the webpage  */
-  color: rgb(255, 255, 255); /* White text color */
+  background-color: rgb(176, 30, 234); /* Neon Purple color for the webpage  */
+  color: rgb(57, 255, 20); /* Green text color */
   margin: 0;
   padding: 0;
   overflow-x: hidden;
