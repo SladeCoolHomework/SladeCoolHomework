@@ -111,3 +111,10 @@ h1, h2 {
   transform: rotate(-15deg); /* Angle the ribbon */
   z-index: 1; /* Ensure it appears above the button */
 }
+
+.Neon
+{
+  color: rgb(160, 43, 207); /* Makes the boxes text look purple instead of white */
+}
+
+
